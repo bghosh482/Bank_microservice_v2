@@ -242,3 +242,4 @@ public class CardsController {
     }
 
 }
+// only for cards dmeo
