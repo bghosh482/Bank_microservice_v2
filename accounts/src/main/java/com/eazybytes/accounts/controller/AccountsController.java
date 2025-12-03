@@ -151,6 +151,7 @@ public class AccountsController {
     )
     @GetMapping("/contact-info")
     public ResponseEntity<AccountContactInfoDto> getContactInfo() {
+        System.out.println("Hello");
         return ResponseEntity
                 .status(HttpStatus.OK)
                 .body(accountContactInfoDto);
