@@ -249,5 +249,7 @@ public class CardsController {
 // only for demo
 
 // only for cards dmeo
+//create merge conflict and merge
+//create merge confliect and join
 //feature branch change ......
 //feature branch change ......
