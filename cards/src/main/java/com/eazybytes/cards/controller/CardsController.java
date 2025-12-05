@@ -240,5 +240,4 @@ public class CardsController {
                 .status(HttpStatus.OK)
                 .body(cardContactInfoDto);
     }
-
 }
